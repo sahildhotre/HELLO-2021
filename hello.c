@@ -1,6 +1,7 @@
 #include<studio.h>
 void main()
 {
-print ("HELLO 2021...!!!"):
+printf("HELLO 2021...!!!"):
+  pritf( "\nThis is the C programme")
 }
 
